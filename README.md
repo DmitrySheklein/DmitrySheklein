@@ -1,4 +1,12 @@
-### Hi there 👋
+### Всем привет 👋
+
+- В веб-разработке с 2016 года 👨‍💻
+
+- Frontend 🖥, JavaScript 💛/ TypeScript💙 и E-com 🛒
+
+- Слепая печать Ru/En ⌨️
+
+- Спорт 🏋🏻‍♂️🚲
 
 <!--
 **DmitrySheklein/DmitrySheklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
